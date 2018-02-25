@@ -1,0 +1,13 @@
+items:
+    -
+        Rock:
+            BetterThan:
+                - Scissors
+    -
+        Scissors:
+            BetterThan:
+                - Paper
+    -
+        Paper:
+            BetterThan:
+                - Rock

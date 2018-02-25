@@ -1,0 +1,3 @@
+sirma_rock_scissors_paper_open_homepage:
+    path:     /
+    defaults: { _controller: SirmaRockScissorsPaperOpenBundle:Default:index }
